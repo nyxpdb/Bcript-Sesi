@@ -28,7 +28,6 @@ public class Usuario
 
 	public Usuario(Long id, String email, String senha)
 	{
-		super();
 		this.id = id;
 		this.email = email;
 		this.senha = senha;
